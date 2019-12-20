@@ -1,2 +1,1 @@
-# webgl-three
-jump
+# WebGL-THREE
